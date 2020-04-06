@@ -1106,6 +1106,10 @@ h6 {
 
 #fh5co-trusted img {
   transition: all 0.4s ease-in-out;
+  float: left;
+  height: auto;
+  width: 150px;
+  background-size: cover;
 }
 
 .partner-logo:hover img,
