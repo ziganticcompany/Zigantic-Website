@@ -1100,6 +1100,20 @@ h6 {
   *display: inline;
 }
 
+.partner-logo-2 {
+  zoom: 2;
+}
+
+#fh5co-trusted img {
+  transition: all 0.4s ease-in-out;
+}
+
+.partner-logo:hover img,
+.partner-logo:focus img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
 .section-heading {
   float: left;
   width: 100%;
