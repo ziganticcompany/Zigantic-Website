@@ -1104,6 +1104,19 @@ h6 {
   zoom: 2;
 }
 
+#fh5co-team img {
+  transition: all 0.4s ease-in-out;
+  float: left;
+  background-size: visible;
+  overflow: visible;
+}
+
+.partner-logo-2:hover img,
+.partner-logo-2:focus img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
 #fh5co-trusted img {
   transition: all 0.4s ease-in-out;
   float: left;
